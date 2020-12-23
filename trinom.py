@@ -1,5 +1,4 @@
 # Square-Root-of-Trinomials
-Calculates the Discriminant of a trinomial and gives their square root back
 
 import math
 print("Έχουμε ένα τριώνυμο ax²+bx+c. Δώστε μία θετική ή αρνητική τιμή σε κάθε σταθερά!")
